@@ -4,6 +4,8 @@ The way to find Satellaview servers!
 v1.1.1 Patch
 I PATCHED THIS THING 5 TIMES AT THIS POINT.
 -TailsEraYT, Main Developer
+This is a fork of the main Project. please visit the main one below for the latest updates.
+https://github.com/eramedia-coding/bs-x-coding
 
 Commands
 --------
